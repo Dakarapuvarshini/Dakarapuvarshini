@@ -1,8 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Varshini+%F0%9F%91%8B;Java+Full+Stack+Developer;AWS+Cloud+Enthusiast;Problem+Solver+%7C+Builder+%7C+Learner)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,40:0a2a5e,75:0057b8,100:00D9FF&height=260&section=header&text=Dakarapu%20Varshini&fontSize=52&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=☁️%20Java%20Full%20Stack%20Developer%20%7C%20AWS%20Cloud%20Enthusiast%20%7C%20Problem%20Solver&descSize=17&descAlignY=62&descAlign=50&descColor=c9e8f8&animation=scaleIn&stroke=00D9FF&strokeWidth=1" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:00D9FF,100:0057FF&height=120&section=header&animation=fadeIn" width="100%"/>
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=🚀+Building+scalable+full-stack+applications;☁️+Cloud-native+solutions+on+AWS;💡+Clean+Code+%7C+Real+Impact+%7C+Continuous+Growth;🎓+B.Tech+CSE+%7C+Aspiring+Software+Engineer)](https://git.io/typing-svg)
 
 </div>
 
@@ -112,14 +114,60 @@ goal_2026   : Land a Full Stack / Cloud Engineering role at a product company
 
 ---
 
+## 📄 &nbsp;Research & Publications
+
+<div align="center">
+
+![Research](https://img.shields.io/badge/Published-Conference%20Paper-00D9FF?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Domain](https://img.shields.io/badge/Domain-Cloud%20Computing%20%7C%20Serverless-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+
+<br/>
+
+> ### 📑 &nbsp;Serverless Platform for E-Learning Content Delivery
+>
+> *Published Capstone Research — Cloud Computing & Serverless Architecture*
+>
+> Designed and developed a **scalable serverless architecture** for efficient e-learning content delivery using cloud-native AWS technologies. The system leverages event-driven microservices with CDN integration to ensure high availability, low latency, and cost-efficient global operations.
+
+<br/>
+
+<div align="center">
+
+| 🔧 Aspect | 📋 Details |
+|:---|:---|
+| **Core Technologies** | AWS Lambda · S3 · CloudFront · API Gateway · DynamoDB · Cognito |
+| **Architecture** | Event-driven serverless microservices with CDN integration |
+| **Key Features** | Secure auth · Real-time monitoring (CloudWatch) · AI-based personalization |
+| **DevOps** | CI/CD via GitHub Actions with Docker-based testing |
+| **Performance** | ~98% content delivery success rate with fast execution cycles |
+| **Impact** | Reduced infrastructure cost · Improved scalability for global delivery |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![View Paper](https://img.shields.io/badge/📄_View_Full_Paper-0057FF?style=for-the-badge&logoColor=white)](https://dakarapuvarshini.github.io/varshini-sportfolio/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio_Research_Section-00D9FF?style=for-the-badge&logoColor=black)](https://dakarapuvarshini.github.io/varshini-sportfolio/#research)
+
+</div>
+
+---
+
 ## 🏅 &nbsp;Certifications
 
 <div align="center">
 
-| Badge | Certification |
-|:---:|:---|
-| ☁️ | **AWS Cloud Practitioner** |
-| 🛡️ | **Aviatrix Certified Engineer (ACE)** — Multi-Cloud Networking |
+| Badge | Certification | Link |
+|:---:|:---|:---:|
+| ☁️ | **Google Cloud Certified** — Cloud Associate Engineer | [View](https://www.credly.com/badges/5464da8b-1933-47b7-a831-8df7d941a6c8/public_url) |
+| 🛡️ | **Aviatrix ACE** — Multi-Cloud Networking | [View](https://www.linkedin.com/in/dakarapu-varshini-4715b0257/) |
+| 🤖 | **Salesforce AI Associate** — AI in Salesforce Ecosystem | [View](https://dakarapuvarshini.github.io/varshini-sportfolio/) |
+| ☕ | **Red Hat** — Enterprise Java Application Developer | [View](https://www.linkedin.com/in/dakarapu-varshini-4715b0257/) |
+| 🔄 | **Automation Anywhere** — RPA Developer | [View](https://www.linkedin.com/in/dakarapu-varshini-4715b0257/) |
 
 </div>
 
@@ -163,10 +211,23 @@ goal_2026   : Land a Full Stack / Cloud Engineering role at a product company
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0057FF,50:00D9FF,100:0a0a0a&height=100&section=footer&animation=fadeIn" width="100%"/>
+<br/>
 
-*"Code is not just syntax — it's the art of solving real problems, one commit at a time."*
+---
 
-**⭐ If you found my profile interesting, consider starring a repo or connecting!**
+### 💬 &nbsp;*"Code is not just syntax — it's the art of solving real problems, one commit at a time."*
+
+<br/>
+
+![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️%20by%20Varshini-00D9FF?style=for-the-badge&logo=github&logoColor=white)
+![Open to Work](https://img.shields.io/badge/🚀%20Open%20to-Full%20Stack%20%7C%20Cloud%20Roles-FF9900?style=for-the-badge)
+
+<br/>
+
+⭐ **If you found my profile valuable — drop a star on a repo or let's connect!**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:00D9FF,40:0057b8,75:0a2a5e,100:0d1117&height=140&section=footer&text=Let%27s%20Build%20Something%20Great&fontSize=26&fontColor=ffffff&fontAlignY=55&fontAlign=50&descColor=a0d8ef&animation=fadeIn&reversal=true" width="100%"/>
 
 </div>
